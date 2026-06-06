@@ -1,0 +1,19 @@
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Encoding
+   ↓
+Train/Test Split
+   ↓
+Decision Tree
+   ↓
+Random Forest
+   ↓
+Accuracy Evaluation
+   ↓
+Confusion Matrix
+   ↓
+ROC Curve
+   ↓
+Project Submission
